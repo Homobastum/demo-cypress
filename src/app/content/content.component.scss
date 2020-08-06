@@ -1,0 +1,19 @@
+section {
+    max-width: 1000px;
+    margin: auto;
+    padding: 30px 0px;
+    border-bottom: 1px solid #999;
+    color: #333;
+}
+
+#pageContent {
+    max-width: 1000px;
+    margin: auto;
+    border: none;
+}
+
+@media screen and (max-width: 1000px) {
+	section {
+		padding: 30px 20px;
+	}
+}

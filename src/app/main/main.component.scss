@@ -1,0 +1,11 @@
+main {
+	float: left;
+	width: 60%;
+}
+
+@media screen and (max-width: 600px) {
+	main {
+		float: none;
+		width: 100%;
+	}
+}

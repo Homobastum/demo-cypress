@@ -1,0 +1,11 @@
+<nav>
+    <ul>
+        <app-menu-item 
+            *ngFor="let item of items"
+            [href]="item.href"
+            [titre]="item.titre"
+            [newTab]="item.newTab"
+        >
+        </app-menu-item>
+    </ul>
+</nav>
