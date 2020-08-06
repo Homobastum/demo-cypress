@@ -9,9 +9,7 @@ export class ArticleComponent implements OnInit {
   @Input() titre: string;
   @Input() contenu: string;
 
-  constructor() { }
+  constructor() {}
 
-  ngOnInit(): void {
-  }
-
+  ngOnInit(): void {}
 }
