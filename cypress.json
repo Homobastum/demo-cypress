@@ -1,0 +1,9 @@
+{
+    "baseUrl": "http://localhost:4200",
+    "testFiles": [
+        "unit/*.spec.js",
+        "integration/**/*.feature",
+        "e2e/**/*.feature"
+    ]
+}
+

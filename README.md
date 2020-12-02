@@ -1,12 +1,15 @@
 
-# TestAngular
+# CypressDemonstration
 
-Testing the Angular framework.
+Testing the Cypress framework with Angular.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.5.
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+## Cypress
+Run `npm run cypress:open` to open Cypress UI and run tests.
 
 ## Code scaffolding
 
@@ -22,7 +25,7 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 ## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/). (with Angular)
 
 ## Further help
 
